@@ -25,7 +25,7 @@ function ContactController() {
         this.contacts.splice(index, 1);
     }
 }
-
+//comment comment
 //comment more
 angular
     .module('app')
