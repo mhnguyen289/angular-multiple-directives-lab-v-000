@@ -26,7 +26,7 @@ function ContactController() {
     }
 }
 
-
+//comment
 angular
     .module('app')
     .controller('ContactController', ContactController);
